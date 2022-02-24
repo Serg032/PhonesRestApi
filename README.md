@@ -8,7 +8,7 @@ This is the REST API that I have done for the Zignaly Test.
 3. npm run dev: The server is working at this point.
 4. You will need to create a .env with 2 environment variable: DB_URL(MongoDB url with your password) and DATABASE(name of the database)
 5.  You need to have some smartphones created for have a nice web experience so do it.
-6.  Example of the request body you will need: 
+6.  Example of the request body you will need (POSTMAN): 
  {
     "title": "string",
     "description": "string",
